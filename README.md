@@ -14,12 +14,13 @@ This repository contains a comprehensive analysis of a contact center's operatio
 
 ```plaintext
 .
-├── Summery_report.ipynb  # Jupyter Notebook with analysis and insights
-├── data/                 # Directory for synthetic data
-├── requirements.txt      # Required pakage to install
-├── preprocess.ipynb      # this include ALL EDA task 
-├── app.py                # Streamlit dashboard implementation
-├── README.md             # Project overview and documentation
+├── Summery_report.ipynb                # Jupyter Notebook with analysis and insights
+├── data/                               # Directory for synthetic data
+├── requirements.txt                    # Required pakage to install
+├── preprocess.ipynb                    # this include ALL EDA task 
+├── app.py                              # Streamlit dashboard implementation
+├── Streamlit_app_screen_capture.mov    # Streamlit dashboard video capture
+├── README.md                           # Project overview and documentation
 ```
 
 ---
